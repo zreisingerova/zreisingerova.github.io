@@ -46,13 +46,17 @@
 
 <h1> Formal education </h1>
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/UK%20logo.jpeg" width="30" height="30"> 2001-2006: Faculty of mathematics, physics and informatics, Comenius University, Bratislava </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/UK%20logo.jpeg" width="30" height="30"> 
+ 2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  
+</h5>
+
  <ul>
-  <li> Master in specialization: math - management </li>
+  <li> Faculty of mathematics, physics and informatics, Department of applied matematics and statistics </li>
+  <li> Master in specialization: Math - Management </li>
   <li> Diploma thesis: Financial valuation of companies </li>
 </ul>
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/gymnazium%20logo.jpeg" width="30" height="30"> 
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/3e07354e2af309157302f3004e24cbcb87e1d812/gymnazium%20logo.jpeg" width="30" height="30"> 
  2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
 
 <h1> Skills </h1>
