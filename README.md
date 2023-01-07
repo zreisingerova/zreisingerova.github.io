@@ -34,7 +34,7 @@
 
 <h1> Education </h1>
 
-<h5> 2022: MinTech MBA </h5>
+<h5> 2022: MinTech MBA - Information Technologies in Business </h5>
  <ul>
   <li>  </li> 
 </ul>
@@ -57,6 +57,9 @@
 <li>  </li>
 
 <h1> Contact </h1>
-<li> reisingerovazuzana@gmail.com </li>
-<li> <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> </li>
+* <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
+
+<body>
+<i class="fa-brands fa-linkedin"></i>
+ </body>
 
