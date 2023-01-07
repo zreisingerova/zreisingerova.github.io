@@ -34,7 +34,10 @@
 
 <h1> Certifications </h1>
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30"> 2022: MinTech MBA - Information Technologies in Business </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30"> 
+ 2022: <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf">MinTech MBA - Information Technologies in Business </a> 
+</h5>
+ 
  <ul>
   <li>  </li> 
 </ul>
