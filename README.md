@@ -59,7 +59,5 @@
 <h1> Contact </h1>
 * <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
 
-<body>
-<i class="fa-brands fa-linkedin"></i>
- </body>
+<img src=" " width="120" height="150">
 
