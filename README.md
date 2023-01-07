@@ -45,7 +45,7 @@
 </ul>
 
 
-<h5> 2001-2006: Faculty of mathematics, physics and informatics, Comenius University, Bratislava </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/UK%20logo.jpeg" width="30" height="30"> 2001-2006: Faculty of mathematics, physics and informatics, Comenius University, Bratislava </h5>
  <ul>
   <li> Master in specialization: math - management </li>
   <li> Diploma thesis: Financial valuation of companies </li>
