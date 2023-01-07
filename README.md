@@ -32,7 +32,7 @@
   <li>  </li>
 </ul>
 
-<h1> Education </h1>
+<h1> Certifications </h1>
 
 <h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30"> 2022: MinTech MBA - Information Technologies in Business </h5>
  <ul>
@@ -44,13 +44,13 @@
   <li> 12 out of 14 exams completed, including f.e. Business analysis, Management accounting, Corporate and financial reporting, Corporate and business law </li> 
 </ul>
 
+<h1> Formal education </h1>
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/UK%20logo.jpeg" width="30" height="30"> 2001-2006: Faculty of mathematics, physics and informatics, Comenius University, Bratislava </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/UK%20logo.jpeg" width="30" height="30"> 2001-2006: Faculty of mathematics, physics and informatics, Comenius University, Bratislava </h5>
  <ul>
   <li> Master in specialization: math - management </li>
   <li> Diploma thesis: Financial valuation of companies </li>
 </ul>
-
 
 <h1> Skills </h1>
 <li> proven capabilities in delivering finance transformation projects </li>
@@ -58,6 +58,3 @@
 
 <h1> Contact </h1>
 * <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
-
-<img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30">
-
