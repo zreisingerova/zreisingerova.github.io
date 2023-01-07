@@ -52,6 +52,9 @@
   <li> Diploma thesis: Financial valuation of companies </li>
 </ul>
 
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/gymnazium%20logo.jpeg" width="30" height="30"> 
+ 2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
+
 <h1> Skills </h1>
 <li> proven capabilities in delivering finance transformation projects </li>
 <li>  </li>
