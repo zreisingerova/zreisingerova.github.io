@@ -34,12 +34,12 @@
 
 <h1> Education </h1>
 
-<h5> 2022: MinTech MBA - Information Technologies in Business </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30"> 2022: MinTech MBA - Information Technologies in Business </h5>
  <ul>
   <li>  </li> 
 </ul>
 
-<h5> 2006-2010: ACCA </h5>
+<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/ACCA%20logo.jpeg" width="30" height="30"> 2006-2010: ACCA </h5>
  <ul>
   <li> 12 out of 14 exams completed, including f.e. Business analysis, Management accounting, Corporate and financial reporting, Corporate and business law </li> 
 </ul>
@@ -59,5 +59,5 @@
 <h1> Contact </h1>
 * <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
 
-<img src=" " width="120" height="150">
+<img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/MiniTech%20logo.jpeg" width="30" height="30">
 
