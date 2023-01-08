@@ -34,16 +34,12 @@
 
 # Certifications
 
-<h5> <img src="MiniTech logo.jpeg" width="30" height="30"> 2022: 
- <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf">MinTech MBA - Information Technologies in Business </a> 
-</h5>
- * 
+<h5> <img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MinTech MBA </h5> 
+ *  <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
 
-<h5> <img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA </h5>
-*  <a href="Reisingerova_ACCA_Fundamentals Level.pdf">Fundamentals Level certificate </a> 
-
-* Professional Part1 certificate
-
+<h5> <img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA </h5> 
+   * Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> <br>
+   * Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
 
 # Formal education 
 
