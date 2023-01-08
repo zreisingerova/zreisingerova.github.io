@@ -49,16 +49,15 @@
 
 # Formal education 
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/UK%20logo.jpeg" width="30" height="30"> 
- 2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  
-</h5>
+<h5> <img src="UK logo.jpeg" width="40" height="40"> 
+  2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  </h5>
 
 * Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
 * Master in specialization: Math - Management 
 * Diploma thesis: Financial valuation of companies 
-
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/3e07354e2af309157302f3004e24cbcb87e1d812/gymnazium%20logo.jpeg" width="30" height="30"> 
- 2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
+ 
+<h5> <img src="gymnazium logo.jpeg" width="30" height="30"> 
+  2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
 
 # Skills
 * proven capabilities in delivering finance transformation projects 
@@ -66,11 +65,12 @@
 
 # Volunteering
 
-2018-2022:member of Finance Commission under the municipal government office
+2018-2022: member of Finance Commission under the municipal government office
 * responsible for giving opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
 
 2014-2015: accounting&tax officer at local family/kids center
 * responsible for preparation of financial statements and tax return of a non profit organization
 
 # Contact
-* <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
+<h5> <img src="LinkedIn logo.jpeg" width="30" height="30"> 
+<a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
