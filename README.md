@@ -9,15 +9,15 @@
 * intensive cross-department communication 
 * impacted areas: liability valuation & accounting & reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
   
-**2018-2019: Aegon Slovakia - IFRS17&9 Project manager**
+**<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovakia - IFRS17&9 Project manager**
 * responsibility over the initial phase of IFRS17 implementation - up till the acquisition by NN  
 
-**2010-2014: Aegon Slovakia - Finance manager** 
+**<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovakia - Finance manager** 
 * responsibility over accounting, controlling,  reporting, taxation and debt collection activities of 5 AEGON entities (life/non-life insurance, pension funds) 
 * team leading (~ 10 people) 
 * communication with CEE reporting unit, BoD and SB members, external auditors
 
-**2006-2010: KPMG Slovakia - Senior audit associate** in Insurance department 
+**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovakia - Senior audit associate** in Insurance department 
 * responsibility over audits of financial statements (mainly financial institutions) 
 * planning and performing of audit procedures, conducting risk assessment, audit team supervising, providing guidance & assigning tasks to junior staff, presentation of audit issues/findings to clients
 
@@ -34,14 +34,12 @@
 <br>
 
 # Formal education 
-**<img src="UK logo.jpeg" width="40" height="40"> 
-  2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>** 
+**<img src="UK logo.jpeg" width="40" height="40"> 2001-2006: Comenius University, Bratislava** 
 
 * Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
 * <a href="diplom.pdf"> Master diploma </a> in specialization: Math - Management, diploma thesis: Financial valuation of companies 
  
-**<img src="gymnazium logo.jpeg" width="30" height="30"> 
-  1997-2001: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a>**
+**<img src="gymnazium logo.jpeg" width="30" height="30"> 1997-2001: High school, Hlohovec**
 
 <br>
 
