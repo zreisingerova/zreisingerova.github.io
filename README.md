@@ -34,18 +34,16 @@
 
 # Certifications
 
-<h5> <img src="https://media.licdn.com/dms/image/C4D0BAQFzxNiJ3haXkg/company-logo_200_200/0/1589833679967?e=1681344000&v=beta&t=GhpPBLRNJCElRTkVehi_Ql9KJShxVxItM6wvRoit0F8" width="30" height="30"> 
- 2022: <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf">MinTech MBA - Information Technologies in Business </a> 
+<h5> <img src="MiniTech logo.jpeg" width="30" height="30"> 2022: 
+ <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf">MinTech MBA - Information Technologies in Business </a> 
 </h5>
- 
- <ul>
-  <li>  </li> 
-</ul>
+ * 
 
-<h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/f7641f0decb6c7878453831e36e447349ee72329/ACCA%20logo.jpeg" width="30" height="30"> 2006-2010: ACCA </h5>
- <ul>
-  <li> 12 out of 14 exams completed, including f.e. Business analysis, Management accounting, Corporate and financial reporting, Corporate and business law </li> 
-</ul>
+<h5> <img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA </h5>
+*  <a href="Reisingerova_ACCA_Fundamentals Level.pdf">Fundamentals Level certificate </a> 
+
+* Professional Part1 certificate
+
 
 # Formal education 
 
@@ -72,5 +70,5 @@
 * responsible for preparation of financial statements and tax return of a non profit organization
 
 # Contact
-<h5> <img src="LinkedIn logo.jpeg" width="30" height="30"> 
-<a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
+<h5> <img src="LinkedIn logo.png" width="30" height="30"> 
+<a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> </h5>
