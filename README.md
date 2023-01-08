@@ -4,41 +4,31 @@
 
 # Experience
 <h5> 2019-present: NN Slovakia - IFRS17&9 Project manager </h5>
- <ul>
-  <li> technical and methodological implementation of IFRS17&9 </li>
-  <li> responsibility over scope, deliverables, timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration (4 years) </li>
-  <li> impacted areas: liability valuation & accounting & reporting (new way of running the business), IT architecture (new datawarehouse in cloud), data governance/quality, control framework </li>
-</ul>
+* technical and methodological implementation of IFRS17&9 <br>
+* responsibility over scope (local vs group roadmap), deliverables, timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration (4 years) <br>
+* impacted areas: liability valuation & accounting & reporting (new way of running the business), IT architecture (new datawarehouse in cloud), data governance/quality, control framework 
   
 <h5> Aegon Slovakia: IFRS17&9 Project manager (2018-2019) </h5> 
- <ul>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-</ul>
+* responsibility over the initial phase of IFRS17 implementation - up till the acquisition by NN  
 
 <h5> Aegon Slovakia: Finance manager (2010-2014) </h5> 
- <ul>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-</ul>
+* responsibility over accounting, controlling,  reporting, taxation and debt collection activities of 5 AEGON entities (life/non-life insurance, pension funds) <br>
+* team leading (~ 10 people) <br>
+* communication with CEE reporting unit, BoD and SB members, external auditors
 
-<h5> KPMG Slovakia: Senior audit associate (2006-2010) </h5> 
- <ul>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-</ul>
+<h5> KPMG Slovakia: Senior audit associate (2006-2010) in Insurance department </h5> 
+* responsibility over audits of financial statements (mainly financial institutions) <br>
+* planning and performing of audit procedures, conducting risk assessment, audit team supervising, providing guidance & assigning tasks to junior staff, presentation of audit issues/findings to clients
+
 <br>
 
 # Certifications
 <h5> <img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MinTech MBA </h5> 
- *  <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
+ *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
 
 <h5> <img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA </h5> 
-   * Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> <br>
-   * Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
+* Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> <br>
+* Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
 
 <br>
 <br>
@@ -48,10 +38,10 @@
   2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  </h5>
 
 * Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
-* Master in specialization: Math - Management, diploma thesis: Financial valuation of companies 
+* <a href="diplom.pdf"> Master diploma </a> in specialization: Math - Management, diploma thesis: Financial valuation of companies 
  
 <h5> <img src="gymnazium logo.jpeg" width="30" height="30"> 
-  2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
+  1997-2001: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
 <br>
 
 # Skills
