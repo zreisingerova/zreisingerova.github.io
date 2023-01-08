@@ -39,6 +39,8 @@
 <h5> <img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA </h5> 
    * Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> <br>
    * Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
+
+<br>
 <br>
 
 # Formal education 
@@ -46,8 +48,7 @@
   2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  </h5>
 
 * Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
-* Master in specialization: Math - Management 
-* Diploma thesis: Financial valuation of companies 
+* Master in specialization: Math - Management, diploma thesis: Financial valuation of companies 
  
 <h5> <img src="gymnazium logo.jpeg" width="30" height="30"> 
   2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
