@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/122103898/211145768-6a50ff48-becf-46a1-ba51-aaefd9686530.jpg" width="120" height="150">
 
-<h1> Experience </h1>
+# Experience
 
 <h5> 2019-present: NN Slovakia - IFRS17&9 Project manager </h5>
  <ul>
@@ -32,7 +32,7 @@
   <li>  </li>
 </ul>
 
-<h1> Certifications </h1>
+# Certifications
 
 <h5> <img src="https://media.licdn.com/dms/image/C4D0BAQFzxNiJ3haXkg/company-logo_200_200/0/1589833679967?e=1681344000&v=beta&t=GhpPBLRNJCElRTkVehi_Ql9KJShxVxItM6wvRoit0F8" width="30" height="30"> 
  2022: <a href="https://github.com/zreisingerova/zreisingerova.github.io/blob/966262fff31d76efd1eb81f2521990bec7b31685/Reisingerova_MiniTechMBA_EN%20certificate.pdf">MinTech MBA - Information Technologies in Business </a> 
@@ -47,24 +47,30 @@
   <li> 12 out of 14 exams completed, including f.e. Business analysis, Management accounting, Corporate and financial reporting, Corporate and business law </li> 
 </ul>
 
-<h1> Formal education </h1>
+# Formal education 
 
 <h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/6f571d99c18b726683196767ca80ef49b72ef407/UK%20logo.jpeg" width="30" height="30"> 
  2001-2006: <a href="https://fmph.uniba.sk/en/departments/department-of-applied-mathematics-and-statistics/">Comenius University, Bratislava</a>  
 </h5>
 
- <ul>
-  <li> Faculty of mathematics, physics and informatics, Department of applied matematics and statistics </li>
-  <li> Master in specialization: Math - Management </li>
-  <li> Diploma thesis: Financial valuation of companies </li>
-</ul>
+* Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
+* Master in specialization: Math - Management 
+* Diploma thesis: Financial valuation of companies 
 
 <h5> <img src="https://github.com/zreisingerova/zreisingerova.github.io/blob/3e07354e2af309157302f3004e24cbcb87e1d812/gymnazium%20logo.jpeg" width="30" height="30"> 
  2001-2006: <a href="https://gymhc.edupage.org/contact/">High school, Hlohovec</a> </h5>
 
-<h1> Skills </h1>
-<li> proven capabilities in delivering finance transformation projects </li>
-<li>  </li>
+# Skills
+* proven capabilities in delivering finance transformation projects 
+*
 
-<h1> Contact </h1>
+# Volunteering
+
+2018-2022:member of Finance Commission under the municipal government office
+* responsible for giving opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
+
+2014-2015: accounting&tax officer at local family/kids center
+* responsible for preparation of financial statements and tax return of a non profit organization
+
+# Contact
 * <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a>
