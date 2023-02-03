@@ -45,6 +45,9 @@
 
 # Skills
 * proven capabilities in delivering finance transformation projects 
+* strategic planning 
+* analytical and problem solving skills
+* financial reporting
 
 <br>
 
