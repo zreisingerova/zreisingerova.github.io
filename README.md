@@ -36,8 +36,8 @@
 # Formal education 
 **<img src="UK logo.jpeg" width="40" height="40"> 2001-2006: Comenius University, Bratislava** 
 
-* Faculty of mathematics, physics and informatics, Department of applied matematics and statistics 
-* <a href="diplom.pdf"> Master diploma </a> in specialization: Math - Management, diploma thesis: Financial valuation of companies 
+* Faculty of mathematics, physics and informatics, Department of applied mathematics and statistics 
+* <a href="diplom.pdf"> Master diploma </a> in specialisation: Math - Management, diploma thesis: Financial valuation of companies 
  
 **<img src="gymnazium logo.jpeg" width="30" height="30"> 1997-2001: High school, Hlohovec**
 
