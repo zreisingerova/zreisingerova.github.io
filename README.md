@@ -24,7 +24,7 @@
 <br>
 
 # Certifications
-**<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MinTech MBA**
+**<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
 *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
 
 **<img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA** 
