@@ -33,6 +33,9 @@
 <br>
 
 # Certifikáty
+**<img src="kpmg institute logo.jpg" width="30" height="30"> 2023: ESG-Sustainability reporting**
+*  <a href="KPMG ESG certifikat.jpg"> certifikát </a>: Vykazovanie o udržateľnosti úroveň I. 
+*  
 **<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
 *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certifikát </a> v základoch Informačných Technológií v Biznise (algoritmy, HW, SW, Python, siete, web, bezpečnosť, databázy, krypto) 
 
