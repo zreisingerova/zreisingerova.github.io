@@ -19,7 +19,7 @@
 * plánovanie úvodnej fázy implementácie IFRS17 - až do akvizície spoločnosťou NN  
 
 **<img src="maternity2.png" width="30" height="30"> 2014-2018: Materská dovolenka** 
-* zdokonalenie v manažérskych zručnostiach: plánovanie, multitasking, flexibilita, komunikácia, trpezlivosť, vedenie
+* zdokonalenie v cenných manažérskych zručnostiach: plánovanie, multitasking, flexibilita, komunikácia, trpezlivosť, vedenie
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovensko - Finančná manažérka** 
 * zodpovednosť za účtovníctvo, kontroling, reporting, dane a vymáhanie pohľadávok piatich AEGON spoločností (životné a neživotné poistenie, penzijné fondy)
