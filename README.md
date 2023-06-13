@@ -17,6 +17,9 @@
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovakia - IFRS17&9 Project manager**
 * responsibility over the initial phase of IFRS17 implementation - up till the acquisition by NN  
 
+**<img src="maternity2.png" width="30" height="30"> 2014-2018: Maternity leave** 
+* improvement in valuable managerial skills: planning, multitasking, flexibility, communication, patience, leadership
+
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovakia - Finance manager** 
 * responsibility over accounting, controlling,  reporting, taxation and debt collection activities of 5 AEGON entities (life/non-life insurance, pension funds) 
 * team leading (~ 10 people) 
