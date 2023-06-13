@@ -34,7 +34,7 @@
 
 # Certifications
 **<img src="kpmg institute logo.jpg" width="30" height="30"> 2023: ESG: Sustainability reporting - level 1**
-*  <a href="KPMG ESG certifikat.pdf"> certificate </a> in Sustainability Reporting 
+*  <a href="KPMG ESG certifikat.jpg"> certificate </a> in Sustainability Reporting 
 
 **<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
 *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
