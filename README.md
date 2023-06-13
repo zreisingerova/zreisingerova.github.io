@@ -1,4 +1,4 @@
-**Zuzana Reisingerova - CV**
+**Zuzana Reisingerová - CV**
 
 <img src="profile pic.jpg" width="120" height="150">
 
