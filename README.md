@@ -17,7 +17,7 @@
 * zodpovednosť za úvodnú fázu implementácie IFRS17 - až do akvizície spoločnosťou NN  
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovensko - Finančný manažér** 
-* zodpovednosť za účtovníctvo, kontroling, reporting, dane a vymáhanie pohľadávok 5 AEGON spoločností (životné a neživotné poistenie, penzijné fondy)
+* zodpovednosť za účtovníctvo, kontroling, reporting, dane a vymáhanie pohľadávok piatich AEGON spoločností (životné a neživotné poistenie, penzijné fondy)
 * vedenie tímu (~ 10 ľudí)
 * komunikácia s materskou spoločnosťou, manažmentom, externým audítorom
 
@@ -51,6 +51,7 @@
 * preukázané schopnosti pri doručovaní veľkých transformačných projektov  
 * strategické plánovanie 
 * analytické schopnosti
+* multi-tasking
 * finančný reporting
 
 <br>
