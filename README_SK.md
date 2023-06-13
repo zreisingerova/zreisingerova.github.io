@@ -18,7 +18,7 @@
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovensko - IFRS17&9 Projektová manažérka**
 * plánovanie úvodnej fázy implementácie IFRS17 - až do akvizície spoločnosťou NN  
 
-**<img src="maternity.jpg" width="30" height="30"> 2014-2018: Materská dovolenka** 
+**<img src="maternity2.jpg" width="30" height="30"> 2014-2018: Materská dovolenka** 
 * zdokonalenie v manažérskych zručnostiach: plánovanie, multitasking, flexibilita, komunikácia, trpezlivosť, vedenie
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovensko - Finančná manažérka** 
