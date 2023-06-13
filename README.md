@@ -10,7 +10,7 @@
 * 2019-2022: hlavná 4-ročná fáza projektu; 2023: post-implementačná fáza
 * technická a metodická implementácia štandardov IFRS17&9
 * zodpovednosť za rozsah (regulatorné/lokálne/skupinové požiadavky), dodávky/výstupy (rozsiahly viacročný paralelný reporting), plnenie časových harmonogramov, projektový rozpočet a postupné odovzdanie všetkých častí projektu do štandardných firemných procesov
-* intenzívna komunikácia a spolupráca s rôznymi oddeleniami naprieč spoločnosťou, s materkou spoločnosťou, s externými konzultantami, s externým audítorom
+* intenzívna komunikácia a spolupráca s rôznymi oddeleniami naprieč spoločnosťou, s materskou spoločnosťou, s externými konzultantami, s externým audítorom
 * ovplyvnené oblasti: oceňovanie záväzkov z poistenia/zaistenia, účtovníctvo, reporting (kompletný nový spôsob práce pre aktuárov a kontrolórov, nový spôsob riadenia spoločnosti všeobecne), IT architektúra (nový dátový sklad v cloude), dáta (governance/kvalita, systém kontrol)
   
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovensko - IFRS17&9 Projektová manažér**
