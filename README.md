@@ -6,17 +6,12 @@
 **<img src="NN logo.jpeg" width="30" height="30"> 2023-súčasnosť: NN Slovensko - Sustainability Finance Lead** 
 * implementácia ESG stratégie v oblasti reportovania finančných dát o udržateľnosti
 
-**<img src="NN logo.jpeg" width="30" height="30"> 2019-súčasnosť: NN Slovensko - IFRS17&9 Projektová manažér** 
-* technical and methodological implementation of IFRS17&9 
-* responsibility over scope (regulatory vs local vs group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration (2019-2022: main 4Y phase; 2023: post implementation phase) 
-* intensive cross-department communication 
-* impacted areas: liability valuation & accounting & reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
-* 
-* technická a metodická implementácia štandardov IFRS17&9
-* zodpovednosť za rozsah (regulatorné/lokálne/skupinové požiadavky), dodávky/výstupy (rozsiahly viacročný paralelný reporting), časové harmonogramy, projektový rozpočet a postupné odovzdanie všetkých častí projektu do štandardných firemných procesov
+**<img src="NN logo.jpeg" width="30" height="30"> 2019-súčasnosť: NN Slovensko - IFRS17&9 Projektová manažér**  
 * 2019-2022: hlavná 4-ročná fáza projektu; 2023: post-implementačná fáza
-* intenzívna komunikácia a spolupráca s rôznymi oddeleniami naprieč spoločnosťou, so skupinou, s externými konzultantami, s externým audítorom
-* ovplyvnené oblasti: hodnotenie záväzkov a účtovníctvo a hlásenie (kompletný nový spôsob práce pre aktuárov a kontrolórov, nový spôsob riadenia podnikania všeobecne), IT architektúra (nový dátový sklad v cloude), dáta (governance/kvalita, systém kontrol)
+* technická a metodická implementácia štandardov IFRS17&9
+* zodpovednosť za rozsah (regulatorné/lokálne/skupinové požiadavky), dodávky/výstupy (rozsiahly viacročný paralelný reporting), plnenie časových harmonogramov, projektový rozpočet a postupné odovzdanie všetkých častí projektu do štandardných firemných procesov
+* intenzívna komunikácia a spolupráca s rôznymi oddeleniami naprieč spoločnosťou, s materkou spoločnosťou, s externými konzultantami, s externým audítorom
+* ovplyvnené oblasti: oceňovanie záväzkov z poistenia/zaistenia, účtovníctvo, reporting (kompletný nový spôsob práce pre aktuárov a kontrolórov, nový spôsob riadenia spoločnosti všeobecne), IT architektúra (nový dátový sklad v cloude), dáta (governance/kvalita, systém kontrol)
   
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovensko - IFRS17&9 Projektová manažér**
 * zodpovednosť za úvodnú fázu implementácie IFRS17 - až do akvizície spoločnosťou NN  
