@@ -29,7 +29,7 @@
 
 # Certifikáty
 **<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
-*  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
+*  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certifikát </a> v základoch informačných technológií v biznise (algoritmy, HW, SW, Python, siete, web, bezpečnosť, databázy, krypto) 
 
 **<img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA** 
 * Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> 
