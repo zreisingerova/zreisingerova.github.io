@@ -3,30 +3,36 @@
 <img src="profile pic.jpg" width="120" height="150">
 
 # Pracovné skúsenosti
-**<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Sustainability Finance Lead** 
-* implementácia ESG stratégie v oblasti reportovania o udržateľnosti
+**<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovensko - Sustainability Finance Lead** 
+* implementácia ESG stratégie v oblasti reportovania finančných dát o udržateľnosti
 
-**<img src="NN logo.jpeg" width="30" height="30"> 2019-present: NN Slovakia - IFRS17&9 Project manager** 
+**<img src="NN logo.jpeg" width="30" height="30"> 2019-present: NN Slovensko - IFRS17&9 Projektová manažér** 
 * technical and methodological implementation of IFRS17&9 
 * responsibility over scope (regulatory vs local vs group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration (2019-2022: main 4Y phase; 2023: post implementation phase) 
 * intensive cross-department communication 
 * impacted areas: liability valuation & accounting & reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
+* 
+* technická a metodická implementácia štandardov IFRS17&9
+* zodpovednosť za rozsah (regulatorné/lokálne/skupinové požiadavky), dodávky/výstupy (rozsiahly viacročný paralelný reporting), časové harmonogramy, projektový rozpočet a postupné odovzdanie všetkých častí projektu do štandardných firemných procesov
+* 2019-2022: hlavná 4-ročná fáza projektu; 2023: post-implementačná fáza
+* intenzívna komunikácia a spolupráca s rôznymi oddeleniami naprieč spoločnosťou, so skupinou, s externými konzultantami, s externým audítorom
+* ovplyvnené oblasti: hodnotenie záväzkov a účtovníctvo a hlásenie (kompletný nový spôsob práce pre aktuárov a kontrolórov, nový spôsob riadenia podnikania všeobecne), IT architektúra (nový dátový sklad v cloude), dáta (governance/kvalita, systém kontrol)
   
-**<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovakia - IFRS17&9 Project manager**
-* responsibility over the initial phase of IFRS17 implementation - up till the acquisition by NN  
+**<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovensko - IFRS17&9 Projektová manažér**
+* zodpovednosť za úvodnú fázu implementácie IFRS17 - až do akvizície spoločnosťou NN  
 
-**<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovakia - Finance manager** 
-* responsibility over accounting, controlling,  reporting, taxation and debt collection activities of 5 AEGON entities (life/non-life insurance, pension funds) 
-* team leading (~ 10 people) 
-* communication with CEE reporting unit, BoD and SB members, external auditors
+**<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovensko - Finančný manažér** 
+* zodpovednosť za účtovníctvo, kontroling, reporting, dane a vymáhanie pohľadávok 5 AEGON spoločností (životné a neživotné poistenie, penzijné fondy)
+* vedenie tímu (~ 10 ľudí)
+* komunikácia s materskou spoločnosťou, manažmentom, externým audítorom
 
-**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovakia - Senior audit associate** in Insurance department 
-* responsibility over audits of financial statements (mainly financial institutions) 
-* planning and performing of audit procedures, conducting risk assessment, audit team supervising, providing guidance & assigning tasks to junior staff, presentation of audit issues/findings to clients
+**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovensko - Senior audit associate** na oddelení Auditu poisťovní 
+* zodpovednosť za audity finančných výkazov (hlavne finančné inštitúcie)
+* plánovanie a vykonávanie auditových procedúr, hodnotenia rizík, usmerňovanie a dozorovanie členov tímu, prezentácia zistení auditu klientom
 
 <br>
 
-# Certifications
+# Certifikáty
 **<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
 *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
 
@@ -36,33 +42,33 @@
 
 <br>
 
-# Formal education 
-**<img src="UK logo.jpeg" width="40" height="40"> 2001-2006: Comenius University, Bratislava** 
+# Formálne vzdelanie 
+**<img src="UK logo.jpeg" width="40" height="40"> 2001-2006: Univerzita Komenského, Bratislava** 
 
-* Faculty of mathematics, physics and informatics, Department of applied mathematics and statistics 
-* <a href="diplom.pdf"> Master diploma </a> in specialisation: Math - Management, diploma thesis: Financial valuation of companies 
+* Fakulta matematiky, fyziky a informatiky, Katedra aplikovanej matematiky a štatistiky 
+* <a href="diplom.pdf"> Magisterský diplom </a> v špecializácií: Matematika - Manažment, téma diplomovej práce: Finančné oceňovanie spoločností 
  
-**<img src="gymnazium logo.jpeg" width="30" height="30"> 1997-2001: High school, Hlohovec**
+**<img src="gymnazium logo.jpeg" width="30" height="30"> 1997-2001: Gymnáyium, Hlohovec**
 
 <br>
 
-# Skills
-* proven capabilities in delivering finance transformation projects 
-* strategic planning 
-* analytical and problem solving skills
-* financial reporting
+# Zručnosti
+* preukázané schopnosti pri doručovaní veľkých transformačných projektov  
+* strategické plánovanie 
+* analytické schopnosti
+* finančný reporting
 
 <br>
 
-# Volunteering
-**2018-2022: member of Finance Commission under the municipal government office**
-* responsible for giving opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
+# Dobrovoľníctvo
+**2018-2022: Člen Finančnej komisie pôsobiacej pri Miestnom úrade
+* poskytovanie odporúčaní týkajúcich sa finančných transakcií (investície, rozpočet, predaje/prenájmy)
 
-**2014-2015: accounting&tax officer at local family/kids center**
-* responsible for preparation of financial statements and tax return of a non profit organization
+**2014-2015: Účtovník a daňový poradca v miestnom Centre pre rodinu a deti
+* zodpovednosť za prípravu finančných výkazov a daňového priznania neziskovej organizácie
 
 <br>
 
-# Contact
+# Kontakt
 <img src="LinkedIn logo.png" width="30" height="30"> 
 <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> 
