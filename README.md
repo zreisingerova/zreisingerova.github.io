@@ -2,6 +2,8 @@
 
 <img src="profile pic.jpg" width="120" height="150">
 
+[**EN version**](README.md) | [SK version](README_SK.md) 
+
 # Experience
 **<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Sustainability Finance Lead** 
 * implementation of ESG strategy in sustainability reporting
