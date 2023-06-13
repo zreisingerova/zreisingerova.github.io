@@ -21,7 +21,7 @@
 * vedenie tímu (~ 10 ľudí)
 * komunikácia s materskou spoločnosťou, manažmentom, externým audítorom
 
-**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovensko - Senior audit associate** na oddelení Auditu poisťovní 
+**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovensko - Senior audítor** na oddelení Auditu poisťovní 
 * zodpovednosť za audity finančných výkazov (hlavne finančné inštitúcie)
 * plánovanie a vykonávanie auditových procedúr, hodnotenia rizík, usmerňovanie a dozorovanie členov tímu, prezentácia zistení auditu klientom
 
