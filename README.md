@@ -9,8 +9,9 @@
 * implementation of ESG strategy in sustainability reporting
 
 **<img src="NN logo.jpeg" width="30" height="30"> 2019-present: NN Slovakia - IFRS17&9 Project manager** 
+* 2019-2022: main 4Y phase; 2023: post implementation phase
 * technical and methodological implementation of IFRS17&9 
-* responsibility over scope (regulatory vs local vs group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration (2019-2022: main 4Y phase; 2023: post implementation phase) 
+* responsibility over scope (regulatory vs local vs group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration 
 * intensive cross-department communication 
 * impacted areas: liability valuation & accounting & reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
   
