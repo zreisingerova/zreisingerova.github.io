@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/122103898/211145768-6a50ff48-becf-46a1-ba51-aaefd9686530.jpg" width="120" height="150">
 
-<img src="profile pic.jpg" width="30" height="30">
+<img src="profile pic.jpg" width="120" height="150">
 
 # Experience
 **<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Sustainability Finance Lead** 
