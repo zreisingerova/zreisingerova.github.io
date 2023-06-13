@@ -2,9 +2,9 @@
 
 <img src="profile pic.jpg" width="120" height="150">
 
-# Experience
+# Pracovné skúsenosti
 **<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Sustainability Finance Lead** 
-* implementation of ESG strategy in sustainability reporting
+* implementácia ESG stratégie v oblasti reportovania o udržateľnosti
 
 **<img src="NN logo.jpeg" width="30" height="30"> 2019-present: NN Slovakia - IFRS17&9 Project manager** 
 * technical and methodological implementation of IFRS17&9 
