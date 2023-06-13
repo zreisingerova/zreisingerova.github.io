@@ -16,9 +16,10 @@
 * ovplyvnené oblasti: oceňovanie záväzkov z poistenia/zaistenia, účtovníctvo, reporting (kompletný nový spôsob práce pre aktuárov a kontrolórov, nový spôsob riadenia spoločnosti všeobecne), IT architektúra (nový dátový sklad v cloude), dáta (governance/kvalita, systém kontrol)
   
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2018-2019: Aegon Slovensko - IFRS17&9 Projektová manažérka**
-* zodpovednosť za úvodnú fázu implementácie IFRS17 - až do akvizície spoločnosťou NN  
+* plánovanie úvodnej fázy implementácie IFRS17 - až do akvizície spoločnosťou NN  
 
-**<img src="Aegon logo.jpeg" width="30" height="30"> 2014-2018: Materská dovolenka** 
+**<img src="maternity.jpg" width="30" height="30"> 2014-2018: Materská dovolenka** 
+* zdokonalenie v manažérskych zručnostiach: plánovanie, multitasking, flexibilita, komunikácia, trpezlivosť, vedenie
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovensko - Finančná manažérka** 
 * zodpovednosť za účtovníctvo, kontroling, reporting, dane a vymáhanie pohľadávok piatich AEGON spoločností (životné a neživotné poistenie, penzijné fondy)
@@ -26,7 +27,7 @@
 * komunikácia s materskou spoločnosťou, manažmentom, externým audítorom
 
 **<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovensko - Senior audítorka** na oddelení Auditu poisťovní 
-* zodpovednosť za audity finančných výkazov (hlavne finančné inštitúcie)
+* audity finančných výkazov (hlavne finančné inštitúcie)
 * plánovanie a vykonávanie auditových procedúr, hodnotenia rizík, usmerňovanie a dozorovanie členov tímu, prezentácia zistení auditu klientom
 
 <br>
