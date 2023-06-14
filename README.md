@@ -11,7 +11,7 @@
 **<img src="NN logo.jpeg" width="30" height="30"> 2019-present: NN Slovakia - IFRS17&9 Project Manager** 
 * 2019-2022: main 4Y phase; 2023: post implementation phase
 * technical and methodological implementation of standards IFRS17 and IFRS9 
-* responsibility over scope (regulatory vs local vs group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration 
+* responsibility over scope (regulatory/local/group requirments), deliverables (complex paralell reporting in place), timelines, budget, management of dependencies and handover to business as usual processes for all project parts over its duration 
 * intensive communication and cooperation with multiple departments across the company, parent company, external consultants, external auditor
 * impacted areas: liability valuation & accounting & reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
   
