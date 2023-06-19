@@ -19,7 +19,7 @@
 * responsibility over the initial phase of IFRS17 implementation - up till the acquisition by NN  
 
 **<img src="maternity2.png" width="30" height="30"> 2014-2018: Maternity leave** 
-* improvement in valuable managerial skills: planning, multitasking, flexibility, communication, patience, leadership
+* improvement in valuable managerial skills: planning, leadership, flexibility, communication, patience
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovakia - Finance Manager** 
 * responsibility over accounting, controlling,  reporting, taxation and debt collection activities of 5 AEGON entities (life/non-life insurance, pension funds) 
@@ -59,7 +59,10 @@
 * proven capabilities in delivering finance transformation projects 
 * strategic planning 
 * analytical and problem solving skills
+* communication with diverse stakeholders
 * financial reporting
+* MS Excel - advanced
+* anglický jazyk - B2 (intermediate)
 
 <br>
 
