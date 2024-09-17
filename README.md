@@ -33,8 +33,8 @@
 * communicate with CEE reporting unit, local management, external auditors
 
 **<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovakia - Senior Audit Associate** in Insurance department 
-* responsibility over audits of financial statements (mainly financial institutions) 
-* planning and performing of audit procedures, conducting risk assessment, audit team supervising, providing guidance & assigning tasks to junior staff, presentation of audit issues/findings to clients
+* audit of financial statements (mainly financial institutions) 
+* plan and perform audit procedures, conduct risk assessment, supervise audit team, provide guidance & assign tasks to junior staff, present audit findings to clients
 
 <br>
 
@@ -68,16 +68,16 @@
 * communication with diverse stakeholders
 * financial reporting
 * MS Excel - advanced
-* anglický jazyk - B2 (intermediate)
+* English language - C1 
 
 <br>
 
 # Volunteering
 **2018-2022: Member of Finance Commission under the municipal government office**
-* responsible for giving opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
+* give opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
 
 **2014-2015: Accounting&tax Officer at local family/kids center**
-* responsible for preparation of financial statements and tax return of a non profit organization
+* prepare financial statements and tax return of a non profit organization
 
 <br>
 
