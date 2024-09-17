@@ -5,8 +5,8 @@
 [**EN version**](README.md) | [SK version](README_SK.md) 
 
 # Experience
-**<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Sustainability Finance Lead** 
-* lead technical and methodological implementation of non-financial reporting directive CSRD
+**<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Finance Projects Lead** 
+* lead technical and methodological implementation of non-financial sustainability reporting directive CSRD
 * manage scope (local/group requirments, level of automation), deliverables, timelines, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
 * collaborate with cross-functional teams within the company, other participating NN units and parent company coordinating the project
