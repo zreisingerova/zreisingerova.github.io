@@ -49,8 +49,9 @@
 <br>
 
 # Certifications
-**<img src="kpmg institute logo.jpg" width="30" height="30"> 2023: ESG-Sustainability reporting**
-*  <a href="KPMG ESG certifikat.jpg"> certificate </a> in Sustainability Reporting, level I 
+**<img src="kpmg institute logo.jpg" width="30" height="30"> 2023-2024: ESG-Sustainability reporting**
+*  <a href="KPMG ESG certifikat.jpg"> certificate </a> in Sustainability Reporting, level I
+*  <a href="KPMG ESG certifikat_ESG dotaznik.pdf"> certificate </a> in Sustainability Questionnaire for banks'clients
 
 <br>
 
