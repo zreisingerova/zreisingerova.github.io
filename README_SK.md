@@ -90,5 +90,4 @@
 <br>
 
 # Kontakt
-<img src="LinkedIn logo.png" width="30" height="30"> 
-<a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> 
+<img src="LinkedIn logo.png" width="30" height="30"> <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> 
