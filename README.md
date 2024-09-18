@@ -1,6 +1,6 @@
 **Zuzana Reisingerová (Synaková) - CV**
 
-<img src="profil.jpg" width="120" height="150">
+<img src="profil.jpg" width="150" height="150">
 
 [**EN version**](README.md) | [SK version](README_SK.md) 
 
