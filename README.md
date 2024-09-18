@@ -84,7 +84,7 @@
 * communication with diverse stakeholders
 * financial and non-financial reporting
 * MS Excel - advanced
-* English language - C1 
+* English language - B2/ <a href="Zuzana Reisingerová_ENG Proficiency Test Result.pdf">C1 </a> 
 
 <br>
 
