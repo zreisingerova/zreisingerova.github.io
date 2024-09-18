@@ -1,4 +1,4 @@
-**Zuzana Reisingerová (Synaková) - CV**
+**Zuzana Reisingerová - CV**
 
 <img src="profil.jpg" width="150" height="150">
 
@@ -55,8 +55,9 @@
 
 <br>
 
-**<img src="MiniTech logo.jpeg" width="20" height="20"> 2022: MiniTech MBA**
-*  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
+**<img src="MiniTech logo.jpeg" width="20" height="20"> 2022-2023: MiniTech MBA**
+*  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto)
+*  <a href="MiniTech_AI_certifikat.pdf"> certificate </a> in basics of AI
 
 <br>
 
@@ -71,10 +72,6 @@
 
 * Faculty of mathematics, physics and informatics, Department of applied mathematics and statistics 
 * <a href="diplom.pdf"> Master diploma </a> in specialisation: Math - Management, diploma thesis: Financial valuation of companies 
-
- <br>
- 
-**<img src="gymnazium logo.jpeg" width="20" height="20"> 1997-2001: High school, Hlohovec**
 
 <br>
 
@@ -99,5 +96,4 @@
 <br>
 
 # Contact
-<img src="LinkedIn logo.png" width="30" height="30"> 
-<a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> 
+<img src="LinkedIn logo.png" width="30" height="30"> <a href="https://www.linkedin.com/in/zuzana-reisingerova-388977152/">LinkedIn</a> 
