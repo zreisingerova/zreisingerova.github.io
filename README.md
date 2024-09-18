@@ -7,21 +7,13 @@
 # Experience
 **<img src="NN logo.jpeg" width="20" height="20"> NN Slovakia**
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2023-present: Transformation Projects Lead** 
-* lead technical and methodological implementation of non-financial sustainability reporting directive (CSRD)
-* manage scope (local/group requirements, level of automation), deliverables, timelines, change management and handover to business as usual processes 
+&nbsp;&nbsp;&nbsp;&nbsp; **2019-present: Transformation Projects Lead** 
+* lead technical and methodological implementation of complex financial and non-financial projects (financial reporting standard for insurers: IFRS17, sustainability reporting directive: CSRD)
+* manage scope (regulatory/local/group requirements, level of automation), deliverables, timelines, budget, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
-* collaborate with cross-functional teams within the company, other participating NN units and parent company coordinating the project
-* coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow uo of findings)
+* collaborate with cross-functional teams within the company, other participating NN units, parent company coordinating the project, external consultants, external auditor
+* coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow up of findings)
 * present project status to management, escalate issues 
-
-&nbsp;&nbsp;&nbsp;&nbsp; **2019-2023: IFRS17 Project Manager** 
-* lead complex technical and methodological implementation of financial reporting standard IFRS17 
-* manage scope (regulatory/local/group requirments), deliverables, timelines, budget, management of dependencies and handover to business as usual processes 
-* communicate and cooperate with multiple departments across the company, parent company, external consultants, external auditor
-* coordinate 10+ reporting dry runs
-* present project status to management, escalate issues
-* impacted areas: liability valuation/accounting/reporting (completely new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
 
 <br>
 
@@ -34,8 +26,9 @@
 * improve valuable managerial skills: planning, leadership, flexibility, communication, crisis management, time management, negotiation
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2010-2014: Finance Manager** 
+* lead finance team (10+ people)
 * manage accounting, controlling, reporting, tax and debt collection activities of 5 Aegon entities (life/non-life insurance, pension funds) 
-* lead finance team (10+ people) 
+* ensure accurate financial reporting, compliance with local regulation and Group requirments
 * communicate with CEE reporting unit, local management, external auditors
 
 <br>
@@ -77,8 +70,9 @@
 
 # Skills
 * proven capabilities in delivering complex transformation projects 
-* strategic planning 
-* analytical and problem solving skills
+* strategic planning, budgeting
+* strong analytical and problem solving skills
+* hands-on approach
 * communication with diverse stakeholders
 * financial and non-financial reporting
 * MS Excel - advanced
