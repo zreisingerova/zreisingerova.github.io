@@ -7,7 +7,7 @@
 # Experience
 **<img src="NN logo.jpeg" width="30" height="30"> NN Slovakia**
 
->**2023-present: Finance Projects Lead** 
+    **2023-present: Finance Projects Lead** 
 * lead technical and methodological implementation of non-financial sustainability reporting directive CSRD
 * manage scope (local/group requirments, level of automation), deliverables, timelines, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
