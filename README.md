@@ -5,7 +5,9 @@
 [**EN version**](README.md) | [SK version](README_SK.md) 
 
 # Experience
-**<img src="NN logo.jpeg" width="30" height="30"> 2023-present: NN Slovakia - Finance Projects Lead** 
+**<img src="NN logo.jpeg" width="30" height="30"> NN Slovakia**
+
+**2023-present: Finance Projects Lead** 
 * lead technical and methodological implementation of non-financial sustainability reporting directive CSRD
 * manage scope (local/group requirments, level of automation), deliverables, timelines, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
@@ -13,7 +15,7 @@
 * coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow uo of findings)
 * present project status to management, escalate issues
 
-**<img src="NN logo.jpeg" width="30" height="30"> 2019-2023: NN Slovakia - IFRS17 Project Manager** 
+**2019-2023: IFRS17 Project Manager** 
 * lead complex technical and methodological implementation of financial reporting standard IFRS17 
 * manage scope (regulatory/local/group requirments), deliverables, timelines, budget, management of dependencies and handover to business as usual processes 
 * communicate and cooperate with multiple departments across the company, parent company, external consultants, external auditor
