@@ -5,9 +5,9 @@
 [**EN version**](README.md) | [SK version](README_SK.md) 
 
 # Experience
-**<img src="NN logo.jpeg" width="30" height="30"> NN Slovakia**
+**<img src="NN logo.jpeg" width="20" height="20"> NN Slovakia**
 
-&nbsp;&nbsp;&nbsp;**2023-present: Finance Projects Lead** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2023-present: Finance Projects Lead** 
 * lead technical and methodological implementation of non-financial sustainability reporting directive CSRD
 * manage scope (local/group requirments, level of automation), deliverables, timelines, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
@@ -15,30 +15,34 @@
 * coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow uo of findings)
 * present project status to management, escalate issues 
 
-**2019-2023: IFRS17 Project Manager** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2019-2023: IFRS17 Project Manager** 
 * lead complex technical and methodological implementation of financial reporting standard IFRS17 
 * manage scope (regulatory/local/group requirments), deliverables, timelines, budget, management of dependencies and handover to business as usual processes 
 * communicate and cooperate with multiple departments across the company, parent company, external consultants, external auditor
 * coordinate 10+ reporting dry runs
 * present project status to management, escalate issues
 * impacted areas: liability valuation/accounting/reporting (completelly new way of working for actuarial and controlling staff, new way of running the business in general), IT architecture (new datawarehouse in cloud), data (governance/quality, control framework) 
-  
-**<img src="Aegon logo.jpeg" width="30" height="30"> Aegon Slovakia**
 
-**2018-2019: IFRS17 Project Manager**
+<br>
+
+**<img src="Aegon logo.jpeg" width="20" height="20"> Aegon Slovakia**
+
+&nbsp;&nbsp;&nbsp;&nbsp; **2018-2019: IFRS17 Project Manager**
 * manage initial phase of IFRS17 implementation - up till the acquisition by NN  
 
-**2014-2018: Maternity leave** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2014-2018: Maternity leave** 
 * improve valuable managerial skills: planning, leadership, flexibility, communication, crisis management, time management, negotiation
 
-**2010-2014: Finance Manager** 
+&nbsp;&nbsp;&nbsp;&nbsp; **2010-2014: Finance Manager** 
 * manage accounting, controlling, reporting, tax and debt collection activities of 5 Aegon entities (life/non-life insurance, pension funds) 
 * lead finance team (10+ people) 
 * communicate with CEE reporting unit, local management, external auditors
 
-**<img src="kpmg logo.jpeg" width="30" height="30"> KPMG Slovakia**
+<br>
 
-**2006-2010: Audit Senior Associate** in Insurance department 
+**<img src="kpmg logo.jpeg" width="15" height="15"> KPMG Slovakia**
+
+&nbsp;&nbsp;&nbsp;&nbsp; **2006-2010: Audit Senior Associate** in Insurance department 
 * audit of financial statements (mainly financial institutions) 
 * plan and perform audit procedures, conduct risk assessment, supervise audit team, provide guidance & assign tasks to junior staff, present audit findings to clients
 
@@ -48,22 +52,28 @@
 **<img src="kpmg institute logo.jpg" width="30" height="30"> 2023: ESG-Sustainability reporting**
 *  <a href="KPMG ESG certifikat.jpg"> certificate </a> in Sustainability Reporting, level I 
 
-**<img src="MiniTech logo.jpeg" width="30" height="30"> 2022: MiniTech MBA**
+<br>
+
+**<img src="MiniTech logo.jpeg" width="20" height="20"> 2022: MiniTech MBA**
 *  <a href="Reisingerova_MiniTechMBA_EN certificate.pdf"> certificate </a> in basics of Information Technologies in Business (algorithms, HW, SW, Python, networks, web, security, databases, crypto) 
 
-**<img src="ACCA logo.jpeg" width="40" height="40"> 2006-2010: ACCA** 
+<br>
+
+**<img src="ACCA logo.jpeg" width="20" height="20"> 2006-2010: ACCA** 
 * Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> 
 * Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
 
 <br>
 
 # Formal education 
-**<img src="UK logo.jpeg" width="40" height="40"> 2001-2006: Comenius University, Bratislava** 
+**<img src="UK logo.jpeg" width="25" height="25"> 2001-2006: Comenius University, Bratislava** 
 
 * Faculty of mathematics, physics and informatics, Department of applied mathematics and statistics 
 * <a href="diplom.pdf"> Master diploma </a> in specialisation: Math - Management, diploma thesis: Financial valuation of companies 
+
+ <br>
  
-**<img src="gymnazium logo.jpeg" width="30" height="30"> 1997-2001: High school, Hlohovec**
+**<img src="gymnazium logo.jpeg" width="20" height="20"> 1997-2001: High school, Hlohovec**
 
 <br>
 
