@@ -12,7 +12,7 @@
 * manage scope (regulatory/local/group requirements, level of automation), deliverables, timelines, budget, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
 * collaborate with cross-functional teams within the company, other participating NN units, parent company coordinating the project, external consultants, external auditor
-* coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow up of findings)
+* coordinate multiple reporting dry runs (from planning and inputs collection to review of outcomes and follow up on findings)
 * present project status to management, escalate issues 
 
 <br>
@@ -35,7 +35,7 @@
 
 **<img src="kpmg logo.jpeg" width="15" height="15"> KPMG Slovakia**
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2006-2010: Audit Senior Associate** in Insurance department 
+&nbsp;&nbsp;&nbsp;&nbsp; **2006-2010: Audit Senior Associate** 
 * audit of financial statements (mainly financial institutions) 
 * plan and perform audit procedures, conduct risk assessment, supervise audit team, provide guidance & assign tasks to junior staff, present audit findings to clients
 
@@ -84,7 +84,7 @@
 **2018-2022: Member of Finance Commission under the municipal government office**
 * give opinions/advices on financial matters (investment ideas, budget, sales/rentals) approved by local authorities 
 
-**2014-2015: Accounting&tax Officer at local family/kids center**
+**2014-2015: Accounting&tax officer at local family/kids center**
 * prepare financial statements and tax return of a non profit organization
 
 <br>
