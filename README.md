@@ -10,7 +10,7 @@
 * manage scope (local/group requirments, level of automation), deliverables, timelines, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
 * collaborate with cross-functional teams within the company, other participating NN units and parent company coordinating the project
-* coordinate reporting dry runs (from planning and inputs collection to review of outcomes)
+* coordinate reporting dry runs (from planning and inputs collection to review of outcomes and follow uo of findings)
 * present project status to management, escalate issues
 
 **<img src="NN logo.jpeg" width="30" height="30"> 2019-2023: NN Slovakia - IFRS17 Project Manager** 
@@ -25,14 +25,14 @@
 * manage initial phase of IFRS17 implementation - up till the acquisition by NN  
 
 **<img src="maternity2.png" width="30" height="30"> 2014-2018: Maternity leave** 
-* improve valuable managerial skills: planning, leadership, flexibility, communication
+* improve valuable managerial skills: planning, leadership, flexibility, communication, crisis management, time management, negotiation
 
 **<img src="Aegon logo.jpeg" width="30" height="30"> 2010-2014: Aegon Slovakia - Finance Manager** 
 * manage accounting, controlling, reporting, tax and debt collection activities of 5 Aegon entities (life/non-life insurance, pension funds) 
-* lead fiannce team (10+ people) 
+* lead finance team (10+ people) 
 * communicate with CEE reporting unit, local management, external auditors
 
-**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovakia - Senior Audit Associate** in Insurance department 
+**<img src="kpmg logo.jpeg" width="30" height="30"> 2006-2010: KPMG Slovakia - Audit Senior Associate** in Insurance department 
 * audit of financial statements (mainly financial institutions) 
 * plan and perform audit procedures, conduct risk assessment, supervise audit team, provide guidance & assign tasks to junior staff, present audit findings to clients
 
