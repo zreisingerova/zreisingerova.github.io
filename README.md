@@ -11,6 +11,7 @@
 * lead technical and methodological implementation of complex financial and non-financial projects (financial reporting standard for insurers: IFRS17, sustainability reporting directive: CSRD)
 * manage scope (regulatory/local/group requirements, level of automation), deliverables, timelines, budget, change management and handover to business as usual processes 
 * analyze business needs and translate them into technical specifications, test delivered solution in Azure datawarehouse
+* design of target processes, create process-data flows
 * collaborate with cross-functional teams within the company, other participating NN units, parent company coordinating the project, external consultants, external auditor
 * coordinate multiple reporting dry runs (from planning and inputs collection to review of outcomes and follow up on findings)
 * present project status to management, escalate issues 
