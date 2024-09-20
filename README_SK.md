@@ -11,6 +11,7 @@
 * riadenie technickej a metodickej implementácie zložitých finančných a nefinančných projektov (štandard finančného výkazníctva pre poisťovne: IFRS17, smernica o vykazovaní udržateľnosti: CSRD)
 * manažovanie rozsahu (regulatorné/lokálne/skupinové požiadavky, úroveň automatizácie), dodávok, časového harmonogramu, rozpočtu, riadenie zmien a odovzdanie do štandardnej prevádzky
 * analýza biznis požiadaviek, príprava technických špecifikácií, testovanie dodaných riešení v dátovom sklade v Azure
+* návrh cieľových procesov, nákres procesno-dátových máp
 * spolupráca s rôznorodými tímami v rámci spoločnosti, ďalšími entitami v NN skupine, materskou spoločnosťou koordinujúcou projekt, externými konzultantmi, externým audítorom
 * koordinácia početných testovacích reportingových cvičení (od plánovania a zberu vstupov až po analýzu výstupov a doriešenie zistení)
 * prezentovanie stavu projektu manažmentu, eskalovanie problémov
