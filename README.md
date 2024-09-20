@@ -76,7 +76,7 @@
 * hands-on approach
 * communication with diverse stakeholders
 * financial and non-financial reporting
-* MS Excel - advanced
+* MS Office - advanced
 * English language - B2/ <a href="Zuzana Reisingerová_ENG Proficiency Test Result.pdf">C1 </a> 
 
 <br>
