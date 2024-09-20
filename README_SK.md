@@ -55,8 +55,8 @@
 <br>
 
 **<img src="ACCA logo.jpeg" width="20" height="20"> 2006-2010: ACCA** 
-* Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certificate </a> 
-* Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certificate </a> 
+* Fundamentals Level <a href="Reisingerova_ACCA_Fundamentals Level.pdf">certifikát </a> 
+* Professional Part1 <a href="Reisingerova_ACCA_Professional Part1.pdf">certifikát </a> 
 
 <br>
 
