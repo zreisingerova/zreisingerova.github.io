@@ -76,7 +76,7 @@
 * praktický prístup k práci
 * komunikácia s rôznorodými zúčastnenými stranami
 * finančný a nefinančný reporting
-* MS Excel - pokročilý
+* MS Office - pokročilý
 * anglický jazyk - B2/ <a href="Zuzana Reisingerová_ENG Proficiency Test Result.pdf">C1 </a>
   
 <br>
